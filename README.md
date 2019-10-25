@@ -413,3 +413,12 @@
 - [Nirvana Financial Solutions [1]](https://github.com/realabbas/big-companies-interview-questions/tree/master/companies/nirvana)
 - [Societe Generale Global Solution [1]](https://github.com/realabbas/big-companies-interview-questions/tree/master/companies/societe)
 - [Clairvolex Knowledge Processes Pvt. Ltd [1]](https://github.com/realabbas/big-companies-interview-questions/tree/master/companies/clairvolex)
+
+
+### Great Thanks
+![Geeks for Geeks Interview Questions](https://cdncontribute.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-9.png) 
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
