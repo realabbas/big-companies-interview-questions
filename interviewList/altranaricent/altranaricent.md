@@ -1,0 +1,6 @@
+ - [Altran(Aricent) Campus Placement Process](https://www.geeksforgeeks.org/altranaricent-campus-placement-process/)
+- [Aricent Interview Experience | Set 5 (On-Campus)](https://www.geeksforgeeks.org/aricent-interview-experience-set-5-campus/)
+- [Aricent Interview | Set 4 (On-Campus)](https://www.geeksforgeeks.org/aricent-interview-set-4-campus/)
+- [Aricent Group Chennai Interview Experience](https://www.geeksforgeeks.org/aricent-group-chennai-interview-experience/)
+- [Aricent Interview | Set 2 (On-Campus)](https://www.geeksforgeeks.org/aricent-interview-set-2-campus/)
+- [Aricent Interview | Set 1 (On-Campus)](https://www.geeksforgeeks.org/aricent-interview-set-1-campus/)

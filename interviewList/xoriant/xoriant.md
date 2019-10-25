@@ -1,0 +1,6 @@
+ - [Xoriant interview experience (On-Campus)](https://www.geeksforgeeks.org/xoriant-interview-experience-on-campus/)
+- [Xoriant interview experience 2018](https://www.geeksforgeeks.org/xoriant-interview-experience-2018/)
+- [Xoriant Interview Experience](https://www.geeksforgeeks.org/xoriant-interview-experience/)
+- [Xoriant Interview Experience | Set 3 (On- Campus)](https://www.geeksforgeeks.org/xoriant-interview-experience-set-3-campus/)
+- [Xoriant Interview Experience | Set 2 (On- Campus)](https://www.geeksforgeeks.org/xoriant-interview-experience-set-2-campus/)
+- [Xoriant Interview Experience | Set 1 (On Campus)](https://www.geeksforgeeks.org/xoriant-interview-experience-set-1-campus/)

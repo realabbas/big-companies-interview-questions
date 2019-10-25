@@ -1,0 +1,4 @@
+ - [Interview Experience at Optimus Information Inc.](https://www.geeksforgeeks.org/interview-experience-optimus-information-inc/)i-initiative-set-1-internship/)://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/) [1mg Interview Experience | Set 2](https://www.geeksforgeeks.org/1mg-interview-experience-set-2/)
+- [1mg Interview Experience | Set 1 (Off Campus)](https://www.geeksforgeeks.org/1mg-interview-experience-set-1-off-campus/)us/)
+- [Zomato Interview Experience | Set 1 (Off Campus)](https://www.geeksforgeeks.org/zomato-interview-experience-set-1-off-campus/)
+- [How to check if two given line segments intersect?](https://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/)

@@ -1,0 +1,4 @@
+ - [Practo Recruitment Process](https://www.geeksforgeeks.org/practo-recruitment-process/)
+- [Practo Interview Experience | Set 3 (Off-Campus)](https://www.geeksforgeeks.org/practo-interview-experience-set-3-off-campus/)
+- [Practo Interview Experience | Set 2 (Off-Campus)](https://www.geeksforgeeks.org/practo-interview-experience-set-2-off-campus/)
+- [Practo Interview Experience | Set 1](https://www.geeksforgeeks.org/practo-placement-experience/)

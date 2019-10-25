@@ -1,0 +1,5 @@
+ - [Axtria Interview Experience | (On-campus  Data/Business Analyst)](https://www.geeksforgeeks.org/axtria-interview-experience-on-campus-data-business-analyst/)
+- [Axtria Interview Experience (On Campus)](https://www.geeksforgeeks.org/axtria-interview-experience-on-campus/)
+- [Axtria Interview Experience | Set 3 (Technical Analyst)](https://www.geeksforgeeks.org/axtria-interview-experience-set-3-technical-analyst/)
+- [Axtria interview Experience | Set 2 (On-Campus)](https://www.geeksforgeeks.org/axtria-interview-experience-set-2-on-campus/)
+- [Axtria Interview Experience](https://www.geeksforgeeks.org/axtria-interview-experience/)

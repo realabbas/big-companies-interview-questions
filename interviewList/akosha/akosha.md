@@ -1,0 +1,3 @@
+ - [Akosha Interview Experience](https://www.geeksforgeeks.org/akosha-interview-experience/)
+- [Largest Rectangular Area in a Histogram | Set 2](https://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
+- [Largest Rectangular Area in a Histogram | Set 1](https://www.geeksforgeeks.org/largest-rectangular-area-in-a-histogram-set-1/)

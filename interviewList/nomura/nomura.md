@@ -1,0 +1,2 @@
+ - [Nomura Holdings Interview Experience (On-Campus)](https://www.geeksforgeeks.org/nomura-holdings-interview-experience-on-campus/)
+- [[TopTalent.in] Rapid Fire Interview With Trisha Roy About Her Job Offers from Nomura and IOC](https://www.geeksforgeeks.org/toptalent-in-rapid-fire-interview-with-trisha-roy-about-her-job-offers-from-nomura-and-ioc/)

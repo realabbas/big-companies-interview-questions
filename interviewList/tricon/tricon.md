@@ -1,0 +1,1 @@
+ - [Tricon Infotech Interview Experience | Set 1 (On-Campus)](https://www.geeksforgeeks.org/tricon-infotech-written-test/)

@@ -1,0 +1,4 @@
+ - [Vizury Interview Experience | Set 2 (1.5 Years Experienced)](https://www.geeksforgeeks.org/vizury-interview-experience-set-2-1-5-years-experienced/)
+- [Vizury Interactive Solutions Interview  Experience](https://www.geeksforgeeks.org/vizury-interactive-solutions-interview-experience/)
+- [Find next greater number with same set of digits](https://www.geeksforgeeks.org/find-next-greater-number-set-digits/)
+- [Dijkstra’s shortest path algorithm | Greedy Algo-7](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)

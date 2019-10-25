@@ -1,0 +1,3 @@
+ - [Anmol Mishra – Geek on the top | “There is no excuse for success”](https://www.geeksforgeeks.org/anmol-mishra-geek-on-the-top-there-is-no-excuse-for-success/)
+- [Cracking Google Summer of Code 101](https://www.geeksforgeeks.org/google-summer-of-code-101/)
+- [[TopTalent.in] Dhananjay Sathe Talks About His GSoC Experience And How To Hack It](https://www.geeksforgeeks.org/toptalent-in-dhananjay-sathe-talks-about-his-gsoc-experience-and-how-to-hack-it/)

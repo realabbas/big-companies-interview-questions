@@ -1,0 +1,2 @@
+ - [Bharat Petroleum Corporation Limited(BPCL) Interview Experience | Set 2 (Pool Campus)](https://www.geeksforgeeks.org/bharat-petroleum-corporation-limitedbpcl-interview-experience-set-2-pool-campus/)
+- [Bharat Petroleum Corporation Limited (BPCL) Interview Experience | (Pool Placement)](https://www.geeksforgeeks.org/bharat-petroleum-corporation-limited-bpcl-interview-experience-pool-placement/)

@@ -1,0 +1,2 @@
+ - [Hexaware Interview Experience (On-Campus)](https://www.geeksforgeeks.org/hexaware-interview-experience-on-campus/)
+- [Hexaware Technologies Interview Experience | Set 1 (Fresher)](https://www.geeksforgeeks.org/hexaware-technologies-interview-experience-set-1-fresher/)

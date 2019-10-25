@@ -1,0 +1,3 @@
+ - [Inautix Interview Experience](https://www.geeksforgeeks.org/inautix-interview-experience/)
+- [Program for Area Of Square](https://www.geeksforgeeks.org/program-area-square/)
+- [Program for factorial of a number](https://www.geeksforgeeks.org/program-for-factorial-of-a-number/)

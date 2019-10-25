@@ -1,0 +1,6 @@
+ - [Connect Nodes at same Level (Level Order Traversal)](https://www.geeksforgeeks.org/connect-nodes-level-level-order-traversal/)
+- [Remove duplicates from sorted array](https://www.geeksforgeeks.org/remove-duplicates-sorted-array/)
+- [Xome Interview Experience | Set 2 (On Campus- Software Developer)](https://www.geeksforgeeks.org/xome-interview-experience-set-2-on-campus-software-developer/)
+- [Xome interview experience for software developer](https://www.geeksforgeeks.org/xome-interview-experience-for-software-developer/)
+- [Connect nodes at same level using constant extra space](https://www.geeksforgeeks.org/connect-nodes-at-same-level-with-o1-extra-space/)
+- [Connect nodes at same level](https://www.geeksforgeeks.org/connect-nodes-at-same-level/)://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/)

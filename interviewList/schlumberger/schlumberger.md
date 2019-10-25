@@ -1,0 +1,2 @@
+ - [Schlumberger (PITC) Pune Interview Experience – Internship](https://www.geeksforgeeks.org/schlumberger-pitc-pune-interview-experience-internship/)
+- [Schlumberger Pune Interview Experience | Analytics Engineer](https://www.geeksforgeeks.org/schlumberger-pune-interview-experience-analytics-engineer/)

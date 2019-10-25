@@ -1,0 +1,10 @@
+ - [A product array puzzle | Set 2 (O(1) Space)](https://www.geeksforgeeks.org/product-array-puzzle-set-2-o1-space/)
+- [Opera Interview Experience | Set 4 ( On Campus-Software Engineer )](https://www.geeksforgeeks.org/opera-interview-experience-set-4-on-campus-software-engineer/)
+- [Opera Interview Experience | Set 3 (IOG division)](https://www.geeksforgeeks.org/opera-interview-experience-set-3/)
+- [Print all Jumping Numbers smaller than or equal to a given value](https://www.geeksforgeeks.org/print-all-jumping-numbers-smaller-than-or-equal-to-a-given-value/)
+- [Opera Interview Experience | Set 2 (On-Campus For Software Engineer)](https://www.geeksforgeeks.org/opera-interview-experience-set-2-on-campus-for-software-engineer/)
+- [Interview Experience Opera Solutions
+ Noida](https://www.geeksforgeeks.org/interview-experience-opera-solutions-noida/)
+- [Travelling Salesman Problem | Set 1 (Naive and Dynamic Programming)](https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/)
+- [Find the number of islands | Set 1 (Using DFS)](https://www.geeksforgeeks.org/find-number-of-islands/)
+- [A Product Array Puzzle](https://www.geeksforgeeks.org/a-product-array-puzzle/)
