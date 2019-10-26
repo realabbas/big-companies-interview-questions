@@ -26,7 +26,7 @@
 - [TCS [43]](https://github.com/realabbas/big-companies-interview-questions/tree/master/companies/tcs/tcs.md)
 - [Qualcomm [40]](https://github.com/realabbas/big-companies-interview-questions/tree/master/companies/qualcomm/qualcomm.md)
 - [Cisco [38]](https://github.com/realabbas/big-companies-interview-questions/tree/master/companies/cisco/cisco.md)
-- [Facebook [36]](https://github.com/realabbas/big-companies-interview-questions/tree/master/companies/facebook/facebook.md)
+- [Facebook [36]](https://www.geeksforgeeks.org/tag/facebook/)
 - [Oyo Rooms [34]](https://github.com/realabbas/big-companies-interview-questions/tree/master/companies/oyo/oyo.md)
 - [Payu [28]](https://github.com/realabbas/big-companies-interview-questions/tree/master/companies/payu/payu.md)
 - [Hike [27]](https://github.com/realabbas/big-companies-interview-questions/tree/master/companies/hike/hike.md)
