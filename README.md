@@ -414,6 +414,8 @@
 - [Societe Generale Global Solution [1]](https://github.com/realabbas/big-companies-interview-questions/tree/master/companies/societe/societe.md)
 - [Clairvolex Knowledge Processes Pvt. Ltd [1]](https://github.com/realabbas/big-companies-interview-questions/tree/master/companies/clairvolex/clairvolex.md)
 
+- [How to answer some most common interview questions](https://www.themuse.com/advice/how-to-answer-the-31-most-common-interview-questions)
+
 ### Great Thanks
 
 ![Geeks for Geeks Interview Questions](https://cdncontribute.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-9.png)
