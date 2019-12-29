@@ -2,8 +2,6 @@
 
 ![Big Companies and Startups Interview Questions](https://blog.codingblocks.com/content/images/2019/06/global-brands-640-250-1543598156.jpg)
 
-[![Buy me coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/realabbas)
-
 - [Amazon [833]](https://github.com/realabbas/big-companies-interview-questions/tree/master/companies/amazon/amazon.md)
 - [Microsoft [381]](https://github.com/realabbas/big-companies-interview-questions/tree/master/companies/microsoft/microsoft.md)
 - [Adobe [130]](https://github.com/realabbas/big-companies-interview-questions/tree/master/companies/adobe/adobe.md)
@@ -425,3 +423,6 @@
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+[![Buy me coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/realabbas)
